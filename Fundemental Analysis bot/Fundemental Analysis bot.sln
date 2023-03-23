@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Fundemental Analysis bot", "Fundemental Analysis bot\Fundemental Analysis bot.pyproj", "{DE5B2D4D-F38C-4995-986B-C032D6EBE2F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE5B2D4D-F38C-4995-986B-C032D6EBE2F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE5B2D4D-F38C-4995-986B-C032D6EBE2F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FEC22007-354F-4F62-A6BE-9A1FB7A668CE}
+	EndGlobalSection
+EndGlobal
